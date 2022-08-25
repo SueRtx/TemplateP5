@@ -1,8 +1,8 @@
-# Dr. Sillystringz Factory (C# Project 4)
+# Pierre's Sweet and Savoy Treats (C# Project 5)
 
 #### By Sue Roberts
 
-####  MVC web application to manage their engineers and the machines they are licensed to fix. 
+####   
 
 ## Technologies Used
 
@@ -18,14 +18,14 @@
 
 ## Description
 
-The factory manager should be able to add a list of engineers, a list of machines, and specify which engineers are licensed to repair which machines. There are  many-to-many relationships between Engineers and Machines. An engineer can be licensed to repair many machines and a machine can have many engineers licensed to repair it. 
+
 
 ## Setup/Installation Requirements
 
-* Clone repository: $ git clone https://github.com/SueRtx/SillyStringzProject4.Solution.git  
+* Clone repository: $ git clone https://github.com/SueRtx/  
 * Open Vs Code: $ code .   
 * Open TERMINAL in Vs Code
-* Go to Factory directory: $ cd Factory
+* Go to PierreBakery directory: $ cd PierreBakery
 * Create file at root directory: $ touch "appsettings.json"
 * Add following code to "appsettings.json" (Add your own password)
 ```
